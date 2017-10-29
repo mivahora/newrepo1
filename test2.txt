@@ -1,2 +1,0 @@
-new text in test2
-updated text in test2
